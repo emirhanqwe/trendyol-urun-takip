@@ -9,13 +9,16 @@ Bu proje bir **Web Scraping** projesidir. Hedef siteden ürün fiyatını alır 
 **Moduller :** requests, beatifulsoup4, re, timei random, smtplib, email.message, os, getpass, datetime
 
 **Kurulum**
-Windows :
+
+**Windows :**
 - *install.bat* dosyası otomatik olarak modülleri kurar
   
 **Linux / MacOS :**
 ```batch
 pip3 install -r requirements.txt
 ```
+
+
 
 **Çalıştırma**
 Windows :
