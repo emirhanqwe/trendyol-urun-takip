@@ -3,7 +3,9 @@
 Bu proje bir **Web Scraping** projesidir. Hedef siteden ürün fiyatını alır ve önceki aldıgı verileri karşılaştırarak Mail bilgilendirmesi yapar.
 
 **Hedef Site :** https://trendyol.com/
+
 **Dil :** Python
+
 **Moduller :** requests, beatifulsoup4, re, timei random, smtplib, email.message, os, getpass, datetime
 
 **Kurulum**
