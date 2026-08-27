@@ -6,7 +6,7 @@ Bu proje bir **Web Scraping** projesidir. Hedef siteden ürün fiyatını alır 
 
 **Dil :** Python
 
-**Moduller :** requests, beatifulsoup4, re, timei random, smtplib, email.message, os, getpass, datetime
+**Moduller :** requests, beatifulsoup4, re, time, random, smtplib, email.message, os, getpass, datetime
 
 # Kurulum
 
